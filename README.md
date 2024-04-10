@@ -68,42 +68,8 @@ public class Harshad {
 }
 
 
-Conversation opened. 2 messages. All messages read.
-
-Skip to content
-Using Gmail with screen readers
-in:sent 
-1 of 16
-Fwd: Java Assignment 2
-Inbox
-
-pallavi walve
-Attachments
-7 Apr 2024, 22:25 (3 days ago)
-to Sangleashwini74, chetanaa2629
 
 
----------- Forwarded message ---------
-From: pallavi walve <walvepallavi02@gmail.com>
-Date: Sun, 7 Apr 2024, 3:08 pm
-Subject: Java Assignment 2
-To: Shreya Shinde <shindeshreya1250@gmail.com>
-
-
-
-
- 11 attachments
-  • Scanned by Gmail
-
-Ashwini Sangle <sangleashwini74@gmail.com>
-Attachments
-7 Apr 2024, 22:38 (3 days ago)
-to Chetana
-
-
- 11 attachments
-  • Scanned by Gmail
-password
 package javaassignment2;
 
 public class Factorial {
